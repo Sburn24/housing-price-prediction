@@ -16,3 +16,5 @@ The project explores relationships between housing characteristics and property 
 
 ## Project Documentation
 The full analysis, code outputs, and visualizations are available in the attached HTML report.
+
+Note: GitHub may not preview large HTML files directly. Please download the file to view the complete report.
